@@ -17,3 +17,11 @@ A fast-paced, fun car game developed using **Kotlin** and **Android Studio**. In
 - **Kotlin**: Programming language used to develop the game logic and user interface.
 - **Android Studio**: Integrated development environment (IDE) used for building the game.
 - **Android SDK**: Software development kit for creating Android applications and games.
+
+
+### Key Sections:
+1. **Overview**: Describes the project, its core functionality, and what you contributed.
+2. **Features**: Highlights specific features you developed, including the billing and payment systems, and their impact on the platform.
+4. **Technologies Used**: Lists the technologies and tools you used.
+
+Feel free to adjust the details or add more sections as needed!
